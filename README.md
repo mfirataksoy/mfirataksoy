@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Mehmet Firat Aksoy. I'm a junior-year Computer Science student in TCU.
+### Hi there 👋 My name is Mehmet Firat Aksoy. I'm a junior-year Computer Science student in Texas Christian University, Fort Worth.
 
 - 👯 Current goal: Getting an internship for Summer 2022.
 - 🔭 I’m currently working on some side projects including AI and blockchain technologies!
