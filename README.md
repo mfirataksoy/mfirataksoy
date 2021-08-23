@@ -1,4 +1,4 @@
-### Hi there 👋, ** I'm Mehmet Firat Aksoy, but you can call me Firat. I'm a full-time computer science student in TCU and I do tutoring and freelancing as side jobs.**
+### Hi there 👋, I'm Mehmet Firat Aksoy, but you can call me Firat. I'm a full-time computer science student in TCU and I tutor and freelance on the side.
 
 - 👯 Current goal: Getting an internship for Summer 2022.
 - 🔭 I’m currently working on some side projects including AI and blockchain technologies!
