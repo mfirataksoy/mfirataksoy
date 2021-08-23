@@ -1,11 +1,3 @@
-Hi there 👋,
-
-
-
-
-📫 How to reach me: email me at m.firat.aksoy@tcu.edu or call/text me: (682)-307-1357
-⚡ Fun fact: I love playing the piano and playing video games. Also my name means "Euphrates River" because I was actually born next to it!
-
 ### Hi there 👋, ** I'm Mehmet Firat Aksoy, but you can call me Firat. I'm a full-time computer science student in TCU and I do tutoring and freelancing as side jobs.**
 
 - 👯 Current goal: Getting an internship for Summer 2022.
