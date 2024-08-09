@@ -1,5 +1,5 @@
 
-### Hi there 👋 I'm Mehmet Firat Aksoy. I'm a senior Computer Science student at Texas Christian University.
+### Hi there 👋 I'm Mehmet Firat Aksoy. I'm a developer, project lead, freelancer and a lifetime student graduated from Texas Christian University.
 
 - 👯 Current goal: Getting acquainted with the T3 Stack
 - 🔭 I will be working on some side projects with Vue and React
