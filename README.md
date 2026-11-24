@@ -1,12 +1,26 @@
+### Hi, I'm Mehmet Fırat Aksoy 👋
 
-### Hi there 👋 I'm Mehmet Firat Aksoy. I'm a developer, project lead, freelancer and a lifetime student graduated from Texas Christian University.
+Software engineer in Istanbul. I take products from the customer conversation to production and keep them working after launch.
 
-- 👯 Current goal: Getting acquainted with the T3 Stack
-- 🔭 I will be working on some side projects with Vue and React
-- 🌱 Ex-ceo, managed a team of 8 developers building a mobile delivery app
-- 😄 Find more information about me at my [Linkedin profile](https://linkedin.com/in/mfirataksoy) or [personal website](https://mfirataksoy.netlify.app)
-- 📫 How to contact me: email me at m.firat.aksoy@tcu.edu. You can also send a message on Linkedin.
+- 💼 **İzibiz** (2025–2026): owned regulated e-document products serving 50,000 customers on Java Spring Boot, JPA/Hibernate and PostgreSQL, and built the company's Flutter app from scratch, released on the App Store and Google Play.
+- 🏦 **Credit One Bank** (2023–2024): onboarded 10+ applications onto the bank's hybrid cloud with Terraform and AWS EKS, and built features for a React support-agent platform used daily by 500 agents.
+- 🎓 B.S. Computer Science, Texas Christian University (2023).
+- 🤖 I build with Claude Code every day, reviewing and testing its output.
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mfirataksoy&show_icons=true" />
-</div>
+#### Projects
+
+| Project | What it is |
+|---|---|
+| [**Noteful**](https://noteful.me) | Real-time notes on Cloudflare Durable Objects (WebSockets, Yjs, Workers, D1) with Claude help: summaries, to-dos, translation. [Source](https://github.com/mfirataksoy/notewith.me) |
+| [**Seçki İstanbul**](https://secki.istanbul) | 120+ Istanbul event sources collected daily in CI, sorted by Claude, with an AI assistant and a [public MCP server](https://github.com/mfirataksoy/secki-mcp). |
+| [**Websites**](https://mfirataksoy.com) | [mfirataksoy.com](https://mfirataksoy.com), [profdrmehmetaksoy.com](https://profdrmehmetaksoy.com), [rudimatu.com](https://rudimatu.com), [krafthukuk.com](https://krafthukuk.com), with AI chat assistants (Claude API, Whisper). |
+| [**Altyazı Portalı**](https://altyazi.mfirataksoy.com) | Whisper speech-to-text and ElevenLabs text-to-speech for better subtitles than YouTube's (Express, R2, Vue 3). |
+| [**Film Fırtınası**](https://filmfirtinasi.com) | Movie discovery and reviews with an AI assistant (Vue 3, Firebase, TMDB API). |
+
+#### Tech
+
+Java 21 · Spring Boot · PostgreSQL · Kafka · Redis · TypeScript · Node.js · Vue · React · Flutter · Docker · Kubernetes · AWS · Terraform · Python
+
+#### Contact
+
+[mfirataksoy.com](https://mfirataksoy.com) · [LinkedIn](https://www.linkedin.com/in/mfirataksoy) · [mehmetfirataksoy@gmail.com](mailto:mehmetfirataksoy@gmail.com)
